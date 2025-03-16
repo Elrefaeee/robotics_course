@@ -1,0 +1,8 @@
+source;share/github_test/hook/cmake_prefix_path.ps1
+source;share/github_test/hook/cmake_prefix_path.dsv
+source;share/github_test/hook/cmake_prefix_path.sh
+source;share/github_test/local_setup.bash
+source;share/github_test/local_setup.dsv
+source;share/github_test/local_setup.ps1
+source;share/github_test/local_setup.sh
+source;share/github_test/local_setup.zsh

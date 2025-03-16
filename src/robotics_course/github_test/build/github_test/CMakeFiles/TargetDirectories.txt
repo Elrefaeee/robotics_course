@@ -1,0 +1,9 @@
+/home/elrefaee/ros2_ws/src/github_test/build/github_test/CMakeFiles/uninstall.dir
+/home/elrefaee/ros2_ws/src/github_test/build/github_test/CMakeFiles/github_test_uninstall.dir
+/home/elrefaee/ros2_ws/src/github_test/build/github_test/CMakeFiles/test.dir
+/home/elrefaee/ros2_ws/src/github_test/build/github_test/CMakeFiles/edit_cache.dir
+/home/elrefaee/ros2_ws/src/github_test/build/github_test/CMakeFiles/rebuild_cache.dir
+/home/elrefaee/ros2_ws/src/github_test/build/github_test/CMakeFiles/list_install_components.dir
+/home/elrefaee/ros2_ws/src/github_test/build/github_test/CMakeFiles/install.dir
+/home/elrefaee/ros2_ws/src/github_test/build/github_test/CMakeFiles/install/local.dir
+/home/elrefaee/ros2_ws/src/github_test/build/github_test/CMakeFiles/install/strip.dir

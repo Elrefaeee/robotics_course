@@ -1,0 +1,15 @@
+/home/elrefaee/ros2_ws/src/github_test/install/github_test/share/ament_index/resource_index/package_run_dependencies/github_test
+/home/elrefaee/ros2_ws/src/github_test/install/github_test/share/ament_index/resource_index/parent_prefix_path/github_test
+/home/elrefaee/ros2_ws/src/github_test/install/github_test/share/github_test/environment/ament_prefix_path.sh
+/home/elrefaee/ros2_ws/src/github_test/install/github_test/share/github_test/environment/ament_prefix_path.dsv
+/home/elrefaee/ros2_ws/src/github_test/install/github_test/share/github_test/environment/path.sh
+/home/elrefaee/ros2_ws/src/github_test/install/github_test/share/github_test/environment/path.dsv
+/home/elrefaee/ros2_ws/src/github_test/install/github_test/share/github_test/local_setup.bash
+/home/elrefaee/ros2_ws/src/github_test/install/github_test/share/github_test/local_setup.sh
+/home/elrefaee/ros2_ws/src/github_test/install/github_test/share/github_test/local_setup.zsh
+/home/elrefaee/ros2_ws/src/github_test/install/github_test/share/github_test/local_setup.dsv
+/home/elrefaee/ros2_ws/src/github_test/install/github_test/share/github_test/package.dsv
+/home/elrefaee/ros2_ws/src/github_test/install/github_test/share/ament_index/resource_index/packages/github_test
+/home/elrefaee/ros2_ws/src/github_test/install/github_test/share/github_test/cmake/github_testConfig.cmake
+/home/elrefaee/ros2_ws/src/github_test/install/github_test/share/github_test/cmake/github_testConfig-version.cmake
+/home/elrefaee/ros2_ws/src/github_test/install/github_test/share/github_test/package.xml
